@@ -1,17 +1,3 @@
 # flutter_getx_counter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_getx_counter
+![flutter getx countter file](https://user-images.githubusercontent.com/52483128/209235819-803045b7-ab04-41c5-b66a-9d81c2d6777f.png)
